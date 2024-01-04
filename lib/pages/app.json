@@ -1,0 +1,23 @@
+{
+  "name": "album_name",
+  "year": "album_name",
+  "singer": "album_name",
+  "songs": [
+    {
+      "track_no": 1,
+      "name": "track_name"
+    },
+    {
+      "track_no": 1,
+      "name": "track_name"
+    },
+    {
+      "track_no": 1,
+      "name": "track_name"
+    },
+    {
+      "track_no": 1,
+      "name": "track_name"
+    }
+  ]
+}

@@ -63,6 +63,13 @@ flutter:
     - assets/images/logo.png
     - assets/images/google.png
     - assets/images/facebook.png
+    - assets/images/praying.png
+    - assets/images/hymns.png
+    - assets/images/calendar_month.png
+    - assets/images/card_giftcard.png
+    - assets/images/group.png
+    - assets/images/hands.png
+    - assets/images/library.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

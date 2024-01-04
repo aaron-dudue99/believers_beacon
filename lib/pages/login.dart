@@ -11,7 +11,7 @@ class _LoginPageState extends State<LoginPage> {
   bool rememberMe = false;
 
   void onLogin() {
-    print('Login Button Pressed');
+    Navigator.pushNamed(context, '/homepage');
   }
 
   @override
